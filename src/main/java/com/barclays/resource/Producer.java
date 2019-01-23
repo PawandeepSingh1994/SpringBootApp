@@ -25,6 +25,10 @@ public class Producer {
     @Autowired
     private Queue queue;
 
+
+    @Autowired
+    private Topic topic;
+
     @Autowired
     private PersonService personService;
 
@@ -34,7 +38,7 @@ public class Producer {
         person.put("METHOD", "POST");
        // System.out.println(person.get("occupation"));
 
-        jmstemplate.convertAndSend(queue, person);
+        jmstemplate.convertAndSend(topic, person);
 
         return "Published Successfully";
     }
@@ -45,7 +49,7 @@ public class Producer {
         map.put("id", id+"");
         map.put("METHOD", "DELETE");
 
-        jmstemplate.convertAndSend(queue, map);
+        jmstemplate.convertAndSend(topic, map);
         return "DELETED SUCCESSFULLY";
     }
 

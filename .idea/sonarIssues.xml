@@ -8,12 +8,107 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/aggregates/OrderAggregate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/commands/ConfirmOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/commands/PlaceOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/commands/ShipOrderCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/controllers/OrderRestEndpoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/event_handlers/OrderedProductsEventHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/events/OrderConfirmedEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/events/OrderPlacedEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/events/OrderShippedEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/queries/OrderedProduct.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/query_handlers/FindAllOrderedProdcutsQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/query_handlers/FindAllOrderedProductsQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/main/java/com/barclays/axontutorial/AxonTutorialCQRS/query_handlers/FndAllOrdrdPrdctsQry.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AxonTutorialCQRS/src/test/java/com/barclays/axontutorial/AxonTutorialCQRS/AxonTutorialCqrsApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/barclays/config/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/barclays/listener/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/barclays/listener/ConsumerOne.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/barclays/listener/ConsumerThree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/barclays/listener/ConsumerTwo.java">
           <value>
             <set />
           </value>
@@ -83,6 +178,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../Training Applications/standalone-activemq/src/main/java/com/barclays/messaging/standaloneactivemq/Consume/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Training Applications/standalone-activemq/src/main/java/com/barclays/messaging/standaloneactivemq/config/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/communication_service/.idea/workspace.xml">
           <value>
             <set />
@@ -144,6 +249,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/communication_service/schema/target/generated-sources/raml/com/barclaycardus/communication/api/model/PhoneNumberRecertificationResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>
